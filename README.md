@@ -1,6 +1,6 @@
 # CSE-201
 
-Web application project developed by:
+Contributors:
 
 Max Zaremba
 https://github.com/maxzaremba
